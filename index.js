@@ -1,3 +1,1 @@
-const greetings = 'Hello, world!'
-
-console.log(greetings)
+export const greetings = 'Hello, world!'
