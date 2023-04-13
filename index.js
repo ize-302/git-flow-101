@@ -1,3 +1,3 @@
 const greetings = 'Hello, world!'
 
-console.log(greetings)
+console.log('Adavize says: ' + greetings)
